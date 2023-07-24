@@ -1,0 +1,6 @@
+framework module LibEx {
+  umbrella header "LibEx-umbrella.h"
+
+  export *
+  module * { export * }
+}
